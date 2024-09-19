@@ -1,2 +1,2 @@
-# TeeWebsite.github.io
+# Tee.github.io
 website creations
